@@ -25,7 +25,7 @@ def flyby(latitude, longitude):
     coordinates = {
         'lat': latitude,
         'lon': longitude,
-        'api_key': '9Jz6tLIeJ0yY9vjbEUWaH9fsXA930J9hspPchute'
+        'api_key': 'INSERT-KEY'
     }
 
     # Query the API to get the results for a location
